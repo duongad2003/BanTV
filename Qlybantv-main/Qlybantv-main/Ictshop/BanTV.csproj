@@ -133,6 +133,7 @@
     <Compile Include="Areas\Admin\Controllers\HangsanxuatsController.cs" />
     <Compile Include="Areas\Admin\Controllers\HedieuhanhsController.cs" />
     <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Admin\Controllers\LoaiTVsController.cs" />
     <Compile Include="Areas\Admin\Controllers\NguoidungsController.cs" />
     <Compile Include="Areas\Admin\Controllers\PhanQuyensController.cs" />
     <Compile Include="Areas\Admin\Controllers\SanphamsController.cs" />
@@ -1314,11 +1315,6 @@
     <Content Include="Areas\Admin\Views\Hangsanxuats\Details.cshtml" />
     <Content Include="Areas\Admin\Views\Hangsanxuats\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Hangsanxuats\Index.cshtml" />
-    <Content Include="Areas\Admin\Views\Hedieuhanhs\Create.cshtml" />
-    <Content Include="Areas\Admin\Views\Hedieuhanhs\Delete.cshtml" />
-    <Content Include="Areas\Admin\Views\Hedieuhanhs\Details.cshtml" />
-    <Content Include="Areas\Admin\Views\Hedieuhanhs\Edit.cshtml" />
-    <Content Include="Areas\Admin\Views\Hedieuhanhs\Index.cshtml" />
     <Content Include="Areas\Admin\Views\PhanQuyens\Create.cshtml" />
     <Content Include="Areas\Admin\Views\PhanQuyens\Delete.cshtml" />
     <Content Include="Areas\Admin\Views\PhanQuyens\Details.cshtml" />
@@ -1366,6 +1362,11 @@
     <Content Include="Areas\Admin\Views\Chitietdonhangs\Details.cshtml" />
     <Content Include="Areas\Admin\Views\Chitietdonhangs\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Chitietdonhangs\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\LoaiTVs\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\LoaiTVs\Delete.cshtml" />
+    <Content Include="Areas\Admin\Views\LoaiTVs\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\LoaiTVs\Details.cshtml" />
+    <Content Include="Areas\Admin\Views\LoaiTVs\Edit.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -1388,11 +1389,8 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Sanpham\dtiphonePartial.cshtml" />
-    <Content Include="Views\Sanpham\dtsamsungpartial.cshtml" />
     <Content Include="Views\Danhmuc\DanhmucPartial.cshtml" />
     <Content Include="Views\Home\SlidePartial.cshtml" />
-    <Content Include="Views\Sanpham\dtxiaomipartial.cshtml" />
     <Content Include="Views\Sanpham\xemchitiet.cshtml" />
     <Content Include="Views\User\Dangky.cshtml" />
     <Content Include="Views\User\Dangnhap.cshtml" />
