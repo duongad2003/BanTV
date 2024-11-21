@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\BanTV.csproj|d:\\nomnom\\codesaver\\web\\bt\\bantv\\qlybantv-main\\qlybantv-main\\ictshop\\hinhanhsp\\ban1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\BanTV.csproj|solutionrelative:ictshop\\hinhanhsp\\ban1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\BanTV.csproj|D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\ictshop\\views\\sanpham\\tvsony.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\BanTV.csproj|solutionrelative:ictshop\\views\\sanpham\\tvsony.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -158,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,7 +170,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ban1.jpg - Bitmap [1920x323, 32 bit, JPG]",
+              "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\HinhanhSP\\ban1.jpg",
+              "RelativeDocumentMoniker": "Ictshop\\HinhanhSP\\ban1.jpg",
+              "ToolTip": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\HinhanhSP\\ban1.jpg - Bitmap [1920x323, 32 bit, JPG]",
+              "RelativeToolTip": "Ictshop\\HinhanhSP\\ban1.jpg - Bitmap [1920x323, 32 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T06:10:54.358Z",
+              "EditorCaption": " - Bitmap [1920x323, 32 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TVLG.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Sanpham\\TVLG.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\TVLG.cshtml",
@@ -179,20 +195,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TVSony.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Sanpham\\TVSony.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\TVSony.cshtml",
               "ToolTip": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Sanpham\\TVSony.cshtml",
               "RelativeToolTip": "Ictshop\\Views\\Sanpham\\TVSony.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T03:36:58.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Views\\Shared\\_Layout.cshtml",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "vi.xml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Content\\ckfinder\\core\\connector\\aspx\\lang\\vi.xml",
               "RelativeDocumentMoniker": "Ictshop\\Content\\ckfinder\\core\\connector\\aspx\\lang\\vi.xml",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "vi.js",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Content\\ckfinder\\lang\\vi.js",
               "RelativeDocumentMoniker": "Ictshop\\Content\\ckfinder\\lang\\vi.js",
@@ -228,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\Contact.cshtml",
@@ -240,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Ictshop\\App_Start\\RouteConfig.cs",
@@ -252,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -264,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Index.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Index.cshtml",
@@ -276,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -288,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Details.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Details.cshtml",
@@ -300,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Home\\Details.cshtml",
@@ -312,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Details.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Details.cshtml",
@@ -324,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Delete.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Delete.cshtml",
@@ -336,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Home\\Delete.cshtml",
@@ -348,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Index.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Index.cshtml",
@@ -360,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Edit.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Edit.cshtml",
@@ -372,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Delete.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Delete.cshtml",
@@ -384,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Sanphams\\Create.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Sanphams\\Create.cshtml",
@@ -396,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Home\\Create.cshtml",
@@ -408,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Create.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Hedieuhanhs\\Create.cshtml",
@@ -420,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "bootstrap.css.map",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Content\\bootstrap.css.map",
               "RelativeDocumentMoniker": "Ictshop\\Content\\bootstrap.css.map",
@@ -432,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "202107271655114_AddThanhtien.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Migrations\\202107271655114_AddThanhtien.cs",
               "RelativeDocumentMoniker": "Ictshop\\Migrations\\202107271655114_AddThanhtien.cs",
@@ -444,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TVSamSung.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Sanpham\\TVSamSung.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\TVSamSung.cshtml",
@@ -456,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\Index.cshtml",
@@ -468,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SanphamController.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Controllers\\SanphamController.cs",
               "RelativeDocumentMoniker": "Ictshop\\Controllers\\SanphamController.cs",
@@ -480,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HedieuhanhsController.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Controllers\\HedieuhanhsController.cs",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\HedieuhanhsController.cs",
@@ -492,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "GioHang.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\GioHang.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\GioHang.cs",
@@ -504,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Chitietdonhang.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\Chitietdonhang.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\Chitietdonhang.cs",
@@ -516,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Thongke.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\Thongke.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\Thongke.cs",
@@ -528,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Qlbanhang.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\Qlbanhang.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\Qlbanhang.cs",
@@ -540,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SanphamsController.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Controllers\\SanphamsController.cs",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\SanphamsController.cs",
@@ -552,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -564,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Sanpham.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\Sanpham.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\Sanpham.cs",
@@ -576,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "LoaiTV.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\LoaiTV.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\LoaiTV.cs",
@@ -588,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Hedieuhanh.cs",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Models\\Hedieuhanh.cs",
               "RelativeDocumentMoniker": "Ictshop\\Models\\Hedieuhanh.cs",
@@ -600,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Web.Config",
               "DocumentMoniker": "D:\\NOMNOM\\codeSaver\\web\\BT\\BanTV\\Qlybantv-main\\Qlybantv-main\\Ictshop\\Web.config",
               "RelativeDocumentMoniker": "Ictshop\\Web.config",
