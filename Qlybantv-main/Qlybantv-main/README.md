@@ -36,4 +36,4 @@ Kích vào hình ảnh để xem chi tiết sản phẩm
 
 Đăng nhập tài khoản admin để thêm sửa xóa sản phẩm và các danh mục khác.
 
-Project làm đang còn trên mức độ tìm hiểu , tham khảo cho sinh viên. Chưa hoàn thiện .
+Project làm đang còn trên mức độ tìm hiểu,Chưa hoàn thiện .
